@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxihe_lab_website=self.webpackChunkxihe_lab_website||[]).push([[450],{14126:function(i,n,u){u.r(n),u.d(n,{default:function(){return e}});var t=u(41984),s=u(86070);function e(){return(0,s.jsx)(t.sv,{})}}}]);
